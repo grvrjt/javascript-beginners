@@ -1,1 +1,4 @@
-console.log("'hello.length--->'", 'hello'.length)
+const str = "gaurav";
+for (let value of str) {
+    console.log(value);
+}
